@@ -1,0 +1,60 @@
+body{
+    background-color:white; ;
+}
+.first{
+    background-color:rgb(245, 247, 250);
+    
+   
+    display: flex;
+    
+    align-items:flex-start;
+    flex-direction: column;
+    margin-bottom: 144px;
+    
+    
+}
+.first-heading{
+    font-size: 53px;
+    font-weight: 500;
+    margin-left: 11vw;
+    margin-right: 1vw;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+.sub-heading{
+    font-size: 22px;
+    margin-left: 11vw;
+    margin-bottom: 40px;
+}
+#button1{
+    margin-left: 11vw;
+    margin-right: 20px;
+    background-color: black;
+    color: white;
+}
+.button{
+    width: 140px;
+    height: 60px;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.brands img{
+    width: 120px;
+    
+}
+.brands{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 11vw;
+    margin-bottom: 40px;
+    width: 86vw;
+  
+   
+    background-color: rgb(245, 247, 250);
+   
+
+  
+}

@@ -1,0 +1,14 @@
+.container-fluid{
+background-color: rgb(245, 247, 250);
+    margin-top: 31px;
+    font-weight: 500;
+}
+.navbar-brand{
+    margin-left: 11vw;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+    font-size: 20px;
+}
