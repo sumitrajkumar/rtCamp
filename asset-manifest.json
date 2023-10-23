@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rtcamp/static/css/main.5cf24b38.css",
+    "main.js": "/rtcamp/static/js/main.16541266.js",
+    "static/js/787.cf206cd5.chunk.js": "/rtcamp/static/js/787.cf206cd5.chunk.js",
+    "index.html": "/rtcamp/index.html",
+    "main.5cf24b38.css.map": "/rtcamp/static/css/main.5cf24b38.css.map",
+    "main.16541266.js.map": "/rtcamp/static/js/main.16541266.js.map",
+    "787.cf206cd5.chunk.js.map": "/rtcamp/static/js/787.cf206cd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf24b38.css",
+    "static/js/main.16541266.js"
+  ]
+}
