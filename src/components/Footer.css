@@ -1,14 +1,21 @@
+html,body{
+    width: 100%;
+    overflow-x: scroll;
+}
 .height
 {
     display: flex;
     flex-direction: column ;
     margin-right: 50px;
-   
+    padding-right: 20px;
+    text-wrap: wrap;
+    flex-wrap: wrap;
+    
   
 }
 .height-one{
     display: flex;
-    flex-direction: row;
+    flex-direction: row;        
     
 }
 .footer_flexbox{
@@ -53,11 +60,22 @@
     flex-direction: row;
     margin-left: 11vw;
     margin-right: 9vw;
+   
+}
+#email{
+    height: 50px;
+    
 }
 
+.full-footer{
+    background-color: rgb(245, 247, 250);
+    min-width: 100%;
 
+   
 
-@media screen and (max-width: 1080px) {
+}
+
+@media screen and (max-width: 1137px) {
 
     .footer_flexbox{
         flex-direction: column;
@@ -79,5 +97,21 @@
     }
     .height-one{
         margin-bottom: 40px;
+    }
+
+
+
+
+    @media screen and (max-width: 755px) {
+
+        .last{
+            flex-direction: column;
+            text-align: center;
+        }
+        #first-box{
+            width: auto;
+            padding-right: 50px;
+        }
+        
     }
   }

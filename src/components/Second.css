@@ -5,7 +5,7 @@
     margin: 20px;
    margin-left: 11vw;
    background-color: rgb(245, 247, 250);
-   
+
 }
 .second-page-second-content{
     font-size: 25px;
@@ -16,6 +16,8 @@
     margin-right:30px;
     margin-bottom: 30px;
     margin-left: 30px;
+   
+    
 }
 .second-page-first-part p{
     font-size: 40px;
@@ -27,6 +29,7 @@
 .second-page-first-part{
     width: 380%;
     background-color: white;
+  
 }
 .second-page-first-content div{
     margin-bottom: 20px;
@@ -34,8 +37,12 @@
 .second-page-second-part div{
     margin-bottom: 30px;
 }
+.test-man{
+    display: flex;
+    flex-direction: row;
+}
 #man-image{
-    float: left;
+    margin-right: 30px;
 }
 
 
@@ -52,6 +59,9 @@
     }
     #man-image{
         width: 30vw;
+    }
+    .second-page-first-part img{
+        margin-bottom: 30px;
     }
     
 }

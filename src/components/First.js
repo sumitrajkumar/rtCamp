@@ -14,14 +14,14 @@ function First() {
 
                 <div className="brands">
                
-                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/05/Google.svg" />
-                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2023/10/meta-logo2.svg" />
-                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/09/Automattic.svg" />
+                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/05/Google.svg" alt="image1"/>
+                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2023/10/meta-logo2.svg" alt="image2"/>
+                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/09/Automattic.svg" alt="image3"/>
                     
                 
-                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/05/NewsUK.svg" />
-                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/05/PMC.svg" />
-                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/05/Aljazeera.svg" />
+                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/05/NewsUK.svg" alt="image4"/>
+                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/05/PMC.svg" alt="image5"/>
+                        <img src="https://rtcamp.com/wp-content/uploads/sites/2/2022/05/Aljazeera.svg" alt="image6"/>
                        
                     
                 </div>

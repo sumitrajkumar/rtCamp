@@ -1,14 +1,30 @@
-.container-fluid{
-background-color: rgb(245, 247, 250);
+.container-fluid {
+    background-color: rgb(245, 247, 250);
     margin-top: 31px;
     font-weight: 500;
 }
-.navbar-brand{
+
+.navbar-brand {
     margin-left: 11vw;
 }
-.d-flex{
+
+.d-flex {
     display: flex;
     justify-content: space-around;
     margin-right: 100px;
     font-size: 20px;
+}
+
+
+
+@media only screen and (min-width: 339px) and (max-width: 1100px) {
+
+
+    .container-fluid button {
+        
+        margin-left: 18vw;
+    }
+
+   
+
 }

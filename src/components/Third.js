@@ -11,7 +11,7 @@ function Third() {
                     <button id="third-page-button">Privacy Sandbox</button>
                 </div>
                 <div className='third-page-second-part'>
-                    <img src="	https://rtcamp.com/wp-content/uploads/sites/2/2023/09/Whats-new.svg" width="400" />
+                    <img src="	https://rtcamp.com/wp-content/uploads/sites/2/2023/09/Whats-new.svg" width="400" alt="whats-new" />
                 </div>
             </div>
         </>

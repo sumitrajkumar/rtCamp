@@ -6,14 +6,18 @@ body{
     align-items:center;
     justify-content:left;
     margin-left: 11vw;
+    margin-bottom: 20px;
+    padding: 40px;
+
 }
 .fourth img{
     width: 560px;
 }
 .fourth-page-second-part{
+    display: flex;
+    flex-direction: column;
     padding: 20px;
     width: 36vw;
-    height: 48vh;
 }
 #fourth-page-heading{
     font-size: 30px;
@@ -22,28 +26,28 @@ body{
 }
 .fourth-page-second-part div{
     font-size: 19px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .fourth-page-second-part a{
-    font-size: 20px ;
+    font-size: 18px ;
 }
 #fourth-page-first-heading{
     font-size: 40px;
     font-weight: 500;
     margin-left: 11vw;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 #fourth-page-second-heading{
     margin-left: 11vw;
     font-size: 22px;
-    margin-bottom:10px ;
+    margin-bottom:40px ;
 }
 #fourth-page{
     margin-bottom: 20px;
 }
 
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1159px) {
     .fourth{
         flex-direction: column;
     }

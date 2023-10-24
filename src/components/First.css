@@ -58,3 +58,8 @@ body{
 
   
 }
+@media screen and (max-width: 368px) and (min-width:337px){
+    .first .first-heading{
+        font-size: 48px;
+    }
+}
